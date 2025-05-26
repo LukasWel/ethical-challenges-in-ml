@@ -15,6 +15,9 @@ This repository contains the full text of my master's thesis *"Ethical Challenge
 To run the notebook effectively, it is recommended to download the repository and maintain the **same folder structure** locally.  
 File paths in the notebooks need to be adjusted depending on your local setup.
 
+Please make sure to merge the contents of `UTKFace 1` & `UTKFace 2` into a **single folder named `UTKFace`** inside  
+`Fairness_Notebook/Data/GenderClassification_Study/` for the notebooks to work correctly.
+
 ---
 
 ## Referenced Datasets and Resources
