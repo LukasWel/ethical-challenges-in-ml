@@ -54,3 +54,7 @@ Please make sure to merge the contents of `UTKFace 1` & `UTKFace 2` into a **sin
 
 This repository is intended for academic use only. All datasets and models are used in accordance with their respective licenses.
 
+## License
+
+This repository and all associated materials are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+Please attribute any reuse to **Lukas Welikat** and link to this repository.
