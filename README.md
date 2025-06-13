@@ -18,6 +18,9 @@ File paths in the notebooks need to be adjusted depending on your local setup.
 Please make sure to merge the contents of `UTKFace 1` & `UTKFace 2` into a **single folder named `UTKFace`** inside  
 `Fairness_Notebook/Data/GenderClassification_Study/` for the notebooks to work correctly.
 
+> **Note on Python version**: Notebook 5 uses TensorFlow, which is officially supported only for Python versions **3.8 to 3.11**.
+> Please ensure you are using a compatible Python version when running this notebook.
+
 ---
 
 ## Referenced Datasets and Resources
